@@ -1,7 +1,7 @@
 
 # Augmented and Virtual Reality Graph Traversal Algorithms Visualization for Engineers
 
-![Augmented Reality View](https://github.com/neelgandhi108/Augmented-and-Virtual-Reality-Graph-Traversal-Algorithms-Visualization-for-Engineers/blob/master/Ar-view.gif)
+![Augmented Reality View](https://github.com/neelgandhi108/Augmented-and-Virtual-Reality-Graph-Traversal-Algorithms-Visualization-for-Engineers/Ar-view.gif)
 
 ## Introduction
 
@@ -41,9 +41,9 @@ As you venture into this mesmerizing realm, it's essential to understand the vis
 
 In addition to the AR view, we also offer enthralling top-down visualizations of the BFS and A-Star algorithms. Delve into a bird's-eye view of these algorithms in action:
 
-![2D Top Down View: BFS Algorithm](https://github.com/neelgandhi108/Augmented-and-Virtual-Reality-Graph-Traversal-Algorithms-Visualization-for-Engineers/blob/master/2d-top-down-view-bfs.gif)
+![2D Top Down View: BFS Algorithm](https://github.com/neelgandhi108/Augmented-and-Virtual-Reality-Graph-Traversal-Algorithms-Visualization-for-Engineers/2d-top-down-view-bfs.gif)
 
-![2D Top Down View: A-Star Algorithm](https://github.com/neelgandhi108/Augmented-and-Virtual-Reality-Graph-Traversal-Algorithms-Visualization-for-Engineers/blob/master/2d-top-down-view-a-star.gif)
+![2D Top Down View: A-Star Algorithm](https://github.com/neelgandhi108/Augmented-and-Virtual-Reality-Graph-Traversal-Algorithms-Visualization-for-Engineers/2d-top-down-view-a-star.gif)
 
 ## Navigating Node Neighbors
 
